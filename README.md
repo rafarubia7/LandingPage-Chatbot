@@ -39,3 +39,5 @@ landing page - chatbot/
 ---
 Criado para apresentar o chatbot Cadu de forma clara, moderna e alinhada ao SENAI São Carlos. Qualquer dúvida ou melhoria, fique à vontade para abrir um issue ou entrar em contato.
 
+## LinkedIn
+[rafarubia7l](https://www.linkedin.com/in/rafarubia7)
