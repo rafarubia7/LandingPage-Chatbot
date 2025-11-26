@@ -1,8 +1,8 @@
-Landing Page – Chatbot SENAI
+# Landing Page – Chatbot SENAI
 
 Landing page institucional criada para apresentar o Cadu, chatbot desenvolvido para o SENAI São Carlos. O objetivo é destacar principais funcionalidades, arquitetura técnica e benefícios do assistente virtual, em um layout responsivo e focado em conversão.
 
-Principais seções
+## Principais seções
 - Hero: resumo do Cadu, pontos fortes e vitrine de indicadores em tempo real.
 - Indicadores de impacto: métricas de atendimento e eficiência interna.
 - Cards informativos: detalhes do projeto, funcionalidades, arquitetura, IA, segurança e base de conhecimento.
@@ -11,14 +11,14 @@ Principais seções
 
 Todas as informações foram mantidas conforme fornecidas, apenas com aprimoramentos visuais para reforçar a identidade SENAI e facilitar a leitura.
 
-Stack e recursos visuais
+## Stack e recursos visuais
 - HTML5 / CSS3 puro.
 - Layout com gradientes, glassmorphism e microinterações.
 - Tipografia `Poppins` via Google Fonts.
 - Responsividade para tablets e smartphones (breakpoints em 768px e 480px).
 - Favicon configurado via `link rel="icon"`.
 
-Estrutura
+## Estrutura
 ```
 landing page - chatbot/
 ├── html/
@@ -27,11 +27,11 @@ landing page - chatbot/
 └── README.md
 ```
 
-Como visualizar
+## Como visualizar
 1. Abra o arquivo `html/index.html` diretamente no navegador ou sirva a pasta com qualquer servidor estático.
 2. Verifique se o `favicon.png` está na raiz (mesmo nível do README) para o ícone aparecer corretamente.
 
-Ajustes futuros (sugestões)
+## Ajustes futuros (sugestões)
 - Converter o layout para um framework (React/Vite, Next ou Astro) caso seja necessário integrar com backend.
 - Adicionar animações JS leves para os cards.
 - Incluir seção de depoimentos novamente se houver novos conteúdos aprovados.
