@@ -39,5 +39,11 @@ landing page - chatbot/
 ---
 Criado para apresentar o chatbot Cadu de forma clara, moderna e alinhada ao SENAI São Carlos. Qualquer dúvida ou melhoria, fique à vontade para abrir um issue ou entrar em contato.
 
+## Deselvolvedores 
+- Lívia Maria Monteiro;
+- Julia Vitória Ferreira Stapavicci;
+- Kelvin Brito Negrini Alves;
+- Rafael Rubiá Oliveria Cardoso.
+
 ## LinkedIn
-[rafarubia7l](https://www.linkedin.com/in/rafarubia7)
+[rafa_rubia7](https://www.linkedin.com/in/rafa_rubia7)
